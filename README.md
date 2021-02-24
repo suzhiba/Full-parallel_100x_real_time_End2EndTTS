@@ -4,3 +4,4 @@
   
   https://arxiv.org/pdf/1812.05710.pdf  author: Dabiao Ma(马达标) ,Zhiba Su(苏志霸),Wenxuan Wang(王文轩） and Yuhao Lu(陆羽皓).
   
+  code in https://github.com/TuringAILab/End2End_training_English
